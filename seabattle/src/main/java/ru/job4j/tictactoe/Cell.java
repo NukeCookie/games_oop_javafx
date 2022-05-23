@@ -1,7 +1,7 @@
 package ru.job4j.tictactoe;
 
 /**
- * //TODO add comments.
+ * TODO add comments.
  *
  * @author Petr Arsentev (parsentev@yandex.ru)
  * @version $Id$
